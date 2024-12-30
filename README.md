@@ -1,6 +1,8 @@
 Great-Snooper
 =============
 
+Snooper: Kẻ rình mò
+
 Great Snooper is an application written by ToOMiToO to connect to the WormNet server of Worms Armageddon. You can chat, enter games and even host with it. It has a very wide variety of features to make it easier and more convenient to use WormNet without the game.
 
 It was written in Microsoft .Net framework 4, using C# language by ToOMiToO.
